@@ -1,0 +1,64 @@
+.margen {
+  margin: 100px;
+}
+
+.tabla {
+  width: 100%;
+  text-align: left;
+}
+
+.tabla td {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#menu {
+  background-color: #253A46;
+  padding: 20px;
+  font-size: 20px;
+}
+
+#menu a {
+  color: white;
+  padding-right: 50px;
+}
+
+body {
+  margin: 0;
+}
+
+
+.center {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.comentario-title {
+  margin-left: 55px;
+  font-weight: 500;
+  font-family: cursive;
+}
+.comentario-container {
+  border: 1px solid #d9d9d9;
+  margin: 15px;
+  border-radius: 10px;
+  list-style: none;
+  padding: 5px;
+  text-align: right;
+  background-color: #b9cfec;
+}
+
+
+/* tareas */
+.tareas-container {
+  padding-top: 35px;
+}
+.tareasUserItem {
+  padding: 15px;
+}
+.tareaItem {
+  margin-left: 15px;
+}
+.tareaItem input {
+  margin: 5px 15px;
+}

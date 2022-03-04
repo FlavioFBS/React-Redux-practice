@@ -1,0 +1,10 @@
+export const TRAER_TAREAS = 'tareas_traer_todas'
+export const EJEMPLO = 'tareas_ejemplo'
+export const CARGANDO = 'tareas_cargando'
+export const ERROR = 'tareas_error'
+
+export const CAMBIO_USUARIO_ID = 'cambio_usuario_id'
+export const CAMBIO_TITULO = 'cambio_titulo'
+export const GUARDAR = 'tarea_guardada'
+export const ACTUALIZAR = 'tarea_actualizar'
+export const LIMPIAR = 'limpiar_formulario'
